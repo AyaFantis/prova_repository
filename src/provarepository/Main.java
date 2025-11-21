@@ -17,7 +17,9 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World");
-        
+        for(int i=0 ; i<3; i++){
+            System.out.println("Ciao shaki");
+        }
         // QUESTA E' LA MIA PROVA AYA
     }
     
